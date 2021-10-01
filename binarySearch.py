@@ -12,7 +12,7 @@ def binarySerch(blist,item):
             low = mid + 1
         else :
             high = mid - 1
-    return none
+    return None
 
 
 
